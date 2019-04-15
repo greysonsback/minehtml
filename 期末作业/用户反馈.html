@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>用户反馈</title>
+<style type="text/css">
+#form1 h1 a {
+	color: #000;
+	text-decoration: none;
+}
+
+#form1 h1 a：hover {
+	cursor: pointer;
+}
+</style>
+</head>
+
+<body> <form name="form1" id="form1" method="post" action="">
+  <table  border="1" align="center" width="350">
+        <tr align="middle">
+          <th colSpan="2" height="24">用户反馈</th></tr>
+        <tr>
+            <td width="40%" >
+                <b>用&nbsp;户&nbsp;名</b>：
+            </td>
+            <td width="60%" >
+                <input maxLength="10" size=30  name="uid" type="text" id="userName">
+            </td>
+        </tr>
+        <tr>
+            <td ><b>性&nbsp;&nbsp;&nbsp;&nbsp;别</b>：</td>
+            <td><input type="radio" checked="checked" value="boy" name="gender">男孩
+                <input type="radio" value="girl"  name="gender">女孩</td>
+        </tr>
+        <tr>
+            <td ><b>密&nbsp;&nbsp;&nbsp;&nbsp;码</b>：
+            </td>
+            <td>
+                <input name="psw1"  type="password" size=32 id="pwd">
+            </td>
+        </tr>
+        <tr>
+            <td><b>反馈内容</b>：</td>
+            <td ><input name="psw2" type="password" size=32 id="confirmPwd">
+            </td>
+        </tr>
+        <tr>
+            <td ><b>联系电话</b>：</td>
+            <td>
+                <input maxLength=50 size=30 name="tel" type="number" id="phone">
+            </td>
+        </tr>
+        <tr>
+
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+                <input type="submit" value="提 交" name="submit" onclick="return check()">
+                <input type="reset" value="清 除" name="submit2">
+           </td>
+        </tr>
+      </table>
+     <h1><a href="index.html">返回首页</a></h1>
+    </form>
+    
+    <script>
+		
+    	function check(){
+			var userName = document.getElementById("userName").value;
+			var pwd = document.getElementById("pwd").value;
+			var confirmPwd = document.getElementById("confirmPwd").value;
+			var phone = document.getElementById("phone").value;
+			if(userName == ""){
+				alert('用户名不能为空!');
+				return;
+			}
+			if(pwd == ""){
+				alert('密码不能为空!');
+				return;
+			}
+			if(pwd.length <= 6){
+				alert('密码长度小于6位!');
+				return;
+			}
+			if(pwd != confirmPwd){
+				alert('内容不能为空!');
+				return;
+			}
+			if(phone.length != 11){
+				alert('手机号码长度不正确!');
+				return;
+			}
+			alert('信息提交通过!');
+		}
+    </script>
+</body>
+</html>

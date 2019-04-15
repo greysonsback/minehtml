@@ -1,0 +1,187 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background-color: #4E5869;
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+ul, ol, dl { 
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+a img { 
+	border: none;
+}
+
+a:link {
+	color:#414958;
+	text-decoration: underline; 
+}
+.container .footer p {
+	text-align: center;
+}
+.container .content p {
+	color: #FFF;
+	background-color: #333;
+}
+.container .content h1 {
+	color: #FFF;
+	background-color: #F00;
+}
+a:visited {
+	color: #4E5869;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus {	    text-decoration: none;
+}
+
+
+.container {
+	width: 80%;
+	max-width: 1260px;
+	min-width: 780px;
+	background-color: #FFF;
+	margin: 0 auto; 
+}
+
+
+.header {
+	background-color: #6F7D94;
+}
+
+
+.sidebar1 {
+	float: left;
+	width: 20%;
+	background-color: #93A5C4;
+	padding-bottom: 10px;
+}
+.content {
+	padding: 10px 0;
+	width: 80%;
+	float: left;
+}
+
+
+.content ul, .content ol { 
+	padding: 0 15px 15px 40px;
+}
+
+ul.nav {
+	list-style: none;
+	border-top: 1px solid #666;
+	margin-bottom: 15px;
+}
+ul.nav li {
+	border-bottom: 1px solid #666;
+}
+ul.nav a, ul.nav a:visited {
+	padding: 5px 5px 5px 15px;
+	display: block;
+	text-decoration: none;
+	background-color: #8090AB;
+	color: #000;
+}
+ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
+	background-color: #6F7D94;
+	color: #FFF;
+}
+
+
+.footer {
+	padding: 10px 0;
+	background-color: #6F7D94;
+	position: relative;
+	clear: both;
+}
+
+
+.fltrt { 
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { 
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat {
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+
+.container h2 {
+	font-size: 24px;
+	background-color: #63F;
+	text-align: center;
+	float: left;
+	width: 1200px;
+}
+.container h2 a {
+	text-decoration: none;
+	color: #000;
+}
+</style></head>
+
+<body>
+
+<div class="container">
+  <div class="header"><a href="https://www.chelseafc.com/zh"><img src="img/logo.img.jpg" width="220" height="220" alt="logo"></a><img src="img/标题.img.jpg" width="926" height="217"></div>
+  <div class="sidebar1">
+    <ul class="nav">
+      <li><a href="早年经历.html"> 早年经历</a></li>
+      <li><a href="慈善事业.html">慈善事业</a></li>
+      <li><a href="商业活动.html">商业活动</a></li>
+      <li><a href="运动生涯.html">运动生涯</a></li>
+    </ul>
+我们希望你可以加入我们切尔西球队的大家庭，一起感受那些年切尔西的美好
+ 2012年，切尔西欧冠夺冠的整个经历<br>
+      1/8决赛首回合，1-3那不勒斯，基本出局，然后主场逆转。<br>
+      半决赛次回合，诺坎普，10人作战，巴萨获点球，然后奇迹般出线。<br>
+      决赛，拜仁83分钟进球，德罗巴扳平，常规时间90分钟，双方射门比27-7，角球17-1。加时赛，切赫扑出罗本点球，然后，点球大战夺冠。<br>
+    史诗般的夺冠经历，在我心中堪比99年曼联三冠王
+
+  <!-- end .sidebar1 --></div>
+  <!-- TemplateBeginEditable name="EditRegion3" -->
+  <div class="content">
+    <h1>永远的魔兽----德罗巴 </h1>
+ <p>一直都想写篇关于德罗巴的文字，一个在英超联赛06-07赛季呼风唤雨魔兽。曾经的他是如此的无可阻挡，是所有世界级后卫的梦靥，他的每一次争顶，每一次射门都能引起后卫的恐慌。还记得那时每逢欧冠杯有切尔西比赛我总能在凌晨2点半醒来，只是为了能一睹魔兽在绿茵场奔跑的英姿，他进球我欢呼，他失误我惋惜，大学四年就这样在年少轻狂中过去了。
+   <br>离开学校就没什么机会看直播了，不过我依然关注着英超，关注着德罗巴，这位来自那个有象牙海岸之称美丽国度的非洲大汉。然而，如今的他已不想当初那么风光，因为伤病，也因为对恩师的不舍。是的，自从穆里尼奥被球队开除以后，他就对球队失望了，重情义的他不能容忍对自己有知遇之恩的恩师就这样被扫地出门，于是他在球场上发泄，在媒体上发泄，终于他在斯坦福桥的路也快走到尽头了。我不知道少了罗本，少了魔力鸟，接下来可能还要少了魔兽的切尔西还会不会有值得我留恋的地方，或许还会偶偶关注下那盏永远的神灯---兰帕德吧。很早之前就开始喜欢上了切尔西这家俱乐部，不是因为那位来自西伯利亚的老板的卢布，也不是因为球员有多大牌，而是因为这只球队的精神，或许没看过他们比赛的很难理解，但我确实是感受太深了。自从穆里尼奥来到斯坦福桥以后，球队就具有了他的气质，那种对胜利的渴望一直让我无法忘记。每次在球队落后的时候，切尔西的队员就会给人一种如狼似虎的感觉，因为他们的教练就是疯狂的一个人，你可以看到连续换上3个进攻球员只留两个后卫的场面，然后看着比分一次次被改写，那是怎样的一种激动人心。也正是在这种状态下，德罗巴完成了一次次不可思议的进球，那一刻他成了切尔西的新国王。
+    <br>依然很清晰的记得06/07赛季曼联跟切尔西的那场足总杯的决赛，在新温布利大球场正是德罗巴在116分钟的一脚凌空捅射帮助切尔西拿到了足总杯冠军。德罗巴留下了太多的经典，对利物浦的转身凌空抽射，欧冠半决赛的梅开二度；三度戏耍阿森纳后卫，等等，无一不让人荡气回肠。然后现在的切尔西已经不是当初的那支魔力鸟手下的蓝狮军了，没有了那种必胜的信念，正直的科特迪瓦人留下注定是落寞的，这个赛季饱受伤病困扰的汉子，在球队的一项项辉煌记录被打破之后再也坐不住了，发了些牢骚，却引导致了于球队的决裂。谁能理解这个质朴的男人其实是对恩师的不舍，对荣誉至死不渝的捍卫。走吧，德罗巴，这里没有什么值得你留恋的了，去意甲吧，那里有你最尊敬的人在等着你，真心的希望你们能再度携手共创辉煌。</p>
+ 
+    <h1>&nbsp;</h1>
+    <!-- end .content -->
+  </div>
+  <div class="footer">
+    <p>切尔西球迷大家庭欢迎你</p>
+    <p>CopyRight©desiged by Greysonsback</p>
+    <!-- end .footer -->
+  </div>
+  <!-- TemplateEndEditable -->
+  <!-- end .container -->
+ 
+ <h2><a href="联系我们404.html">联系我们</a></h2>
+ <h2><a href="用户反馈.html">用户反馈</a></h2>
+</div>
+</body>
+</html>
+
